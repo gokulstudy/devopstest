@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.buildpacks.example</groupId>
-	<artifactId>sample</artifactId>
+	<artifactId>samplegokul</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gokul</name>
 	<description>Sample Java Application</description>
